@@ -48,3 +48,7 @@ int main() {
 n = 12345
 m = 5
 ~~~~
+
+## Putchar
+* The putchar() function is used to output a single character to the console or terminal. It takes a single argument of type int, which represents the ASCII code of the character to be output.
+
